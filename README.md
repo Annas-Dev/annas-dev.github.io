@@ -5,7 +5,7 @@
 ## Education
 - Electro | Ujung Pandang state of politechnic (_November 2023_)
 - Mobile Development | Bangkit Academy led by Google, Tokopedia, Gojek, & Traveloka (_July 2023_)
-- Network Computer	| The University of Texas at Dallas (_April 2019_)
+- Network Computer	| Pangkep vocational high school (_April 2019_)
 
 ## Work Experience
 **Co-Founder @ Ckincheck Ai (_July 2023 - Present_)**
