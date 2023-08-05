@@ -1,6 +1,6 @@
 # Full Stack Developer
 
-#### Technical Skills: Kotlin, Java, SQL, Flutter, Html, Css, Project Management
+#### Technical Skills: Project Management, Leadership, Kotlin, Java, SQL, Flutter, Html, Css
 
 ## Education
 - Electro | Ujung Pandang state of politechnic (_November 2023_)
