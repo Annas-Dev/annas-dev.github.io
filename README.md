@@ -3,7 +3,7 @@
 #### Technical Skills: Kotlin, Java, SQL, Flutter, Html, Css
 
 ## Education
-- S.Tr.T., Electro | Ujung Pandang state of politechnic (_November 2023_)
+- Electro | Ujung Pandang state of politechnic (_November 2023_)
 - Mobile Development | Bangkit Academy led by Google, Tokopedia, Gojek, & Traveloka (_July 2023_)
 - Network Computer	| The University of Texas at Dallas (_April 2019_)
 
@@ -34,13 +34,3 @@ SkinCheck.AI is an All-in-One Platform For Your Skincare Needs. This project was
 I created a PAFI Link application as a Free application. This SERVICE is provided by RSWS Development at no cost and is intended for use as is. This application is made using the **Flutter** framework with some additional libraries
 
 ![Bike Study](pafi.png)
-
-## Talks & Lectures
-- Causality: The new science of an old question - GSP Seminar, Fall 2021
-- Guest Lecture: Dimensionality Reduction - Big Data and Machine Learning for Scientific Discovery (PHYS 5336), Spring 2021
-- Guest Lecture: Fourier and Wavelet Transforms - Scientific Computing (PHYS 5315), Fall 2020
-- A Brief Introduction to Optimization - GSP Seminar, Fall 2019
-- Weeks of Welcome Poster Competition - UTD, Fall 2019
-- A Brief Introduction to Networks - GSP Seminar, Spring 2019
-
-- [Data Science YouTube](https://www.youtube.com/channel/UCa9gErQ9AE5jT2DZLjXBIdA)
