@@ -26,7 +26,7 @@
 
 SkinCheck.AI is an All-in-One Platform For Your Skincare Needs. This project was inspired by the many teenagers in Indonesia who have acne problems and limited access to information to solve their skin problems. We took the initiative to create a mobile application that can help individuals find out the condition of their facial skin and how to care for it. We plan to create an innovative way to know the condition of the face, find suitable skin care products and the best way to treat them. We use machine learning, cloud computing, and mobile development to make these products happen.
 
-![EEG Band Discovery](/assets/img/eeg_band_discovery.jpeg)
+![EEG Band Discovery](skincheck.png)
 
 ### Decoding Physical and Cognitive Impacts of Particulate Matter Concentrations at Ultra-Fine Scales
 [Publication](https://www.mdpi.com/1424-8220/22/11/4240)
