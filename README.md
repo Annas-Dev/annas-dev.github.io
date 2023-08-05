@@ -21,17 +21,17 @@
 - Building an internal Chandra Asri Petrochemical career website, Elbema company profile website
 
 ## Projects
-### Mobile Aplication Skincheck Ai
+### Mobile Application Skincheck Ai
 [Publication](https://github.com/Capstone-Project-C23-PR485)
 
 SkinCheck.AI is an All-in-One Platform For Your Skincare Needs. This project was inspired by the many teenagers in Indonesia who have acne problems and limited access to information to solve their skin problems. We took the initiative to create a mobile application that can help individuals find out the condition of their facial skin and how to care for it. We plan to create an innovative way to know the condition of the face, find suitable skin care products and the best way to treat them. We use machine learning, cloud computing, and mobile development to make these products happen.
 
 ![EEG Band Discovery](skincheck.png)
 
-### Decoding Physical and Cognitive Impacts of Particulate Matter Concentrations at Ultra-Fine Scales
-[Publication](https://www.mdpi.com/1424-8220/22/11/4240)
+### Mobile Application Pafi Makassar
+[Publication](https://play.google.com/store/apps/details?id=com.devannas.pafimakassar)
 
-Used **Matlab** to train over 100 machine learning models which estimated particulate matter concentrations based on a suite of over 300 biometric variables. We found biometric variables can be used to accurately estimate particulate matter concentrations at ultra-fine spatial scales with high fidelity (r2 = 0.91) and that smaller particles are better estimated than larger ones. Inferring environmental conditions solely from biometric measurements allows us to disentangle key interactions between the environment and the body.
+I created a PAFI Link application as a Free application. This SERVICE is provided by RSWS Development at no cost and is intended for use as is. This application is made using the **Flutter** framework with some additional libraries
 
 ![Bike Study](/assets/img/bike_study.jpeg)
 
