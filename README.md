@@ -1,26 +1,30 @@
-# Data Scientist
+# Full Stack Developer
 
-#### Technical Skills: Python, SQL, AWS, Snowflake, MATLAB
+#### Technical Skills: Kotlin, Java, SQL, Flutter, Html, Css
 
 ## Education
-- Ph.D., Physics | The University of Texas at Dallas (_May 2022_)								       		
-- M.S., Physics	| The University of Texas at Dallas (_December 2019_)	 			        		
-- B.S., Physics | The University of Texas at Dallas (_May 2017_)
+- S.Tr.T., Electro | Ujung Pandang state of politechnic (_November 2023_)
+- Mobile Development | Bangkit Academy led by Google, Tokopedia, Gojek, & Traveloka (_July 2023_)
+- Network Computer	| The University of Texas at Dallas (_April 2019_)
 
 ## Work Experience
-**Data Scientist @ Toyota Financial Services (_June 2022 - Present_)**
-- Uncovered and corrected missing step in production data pipeline which impacted over 70% of active accounts
-- Redeveloped loan originations model which resulted in 50% improvement in model performance and saving 1 million dollars in potential losses
+**Co-Founder @ Ckincheck Ai (_July 2023 - Present_)**
+- Building a skincheck ai startup with a team that aims to provide a new experience for users in analyzing and improving facial skin
+- Create a skincheck ai mobile application using native kotlin with the application of machine learning to detect facial skin problems and provide product recommendations
+  
+**Mobile Developer @ Bisa Artificial Indonesia (_Feb 2022 - Feb 2023_)**
+- Build the Siakad By Bisa ai application using native kotlin as well as the project leader of the Siakad application
+- Mentor of the batch 3 independent campus internship program in the field of mobile development
 
-**Data Science Consultant @ Shawhin Talebi Ventures LLC (_December 2020 - Present_)**
-- Conducted data collection, processing, and analysis for novel study evaluating the impact of over 300 biometrics variables on human performance in hyper-realistic, live-fire training scenarios
-- Applied unsupervised deep learning approaches to longitudinal ICU data to discover novel sepsis sub-phenotypes
+**Full Stack Developer @ ID Metafora Indonesia (_August 2022 - October 2023_)**
+- Lead Internship as backend developer
+- Building an internal Chandra Asri Petrochemical career website, Elbema company profile website
 
 ## Projects
-### Data-Driven EEG Band Discovery with Decision Trees
-[Publication](https://www.mdpi.com/1424-8220/22/8/3048)
+### Mobile Aplication Skincheck Ai
+[Publication](https://github.com/Capstone-Project-C23-PR485)
 
-Developed objective strategy for discovering optimal EEG bands based on signal power spectra using **Python**. This data-driven approach led to better characterization of the underlying power spectrum by identifying bands that outperformed the more commonly used band boundaries by a factor of two. The proposed method provides a fully automated and flexible approach to capturing key signal components and possibly discovering new indices of brain activity.
+SkinCheck.AI is an All-in-One Platform For Your Skincare Needs. This project was inspired by the many teenagers in Indonesia who have acne problems and limited access to information to solve their skin problems. We took the initiative to create a mobile application that can help individuals find out the condition of their facial skin and how to care for it. We plan to create an innovative way to know the condition of the face, find suitable skin care products and the best way to treat them. We use machine learning, cloud computing, and mobile development to make these products happen.
 
 ![EEG Band Discovery](/assets/img/eeg_band_discovery.jpeg)
 
