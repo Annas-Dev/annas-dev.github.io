@@ -1,4 +1,4 @@
-# Full Stack Developer
+# Mobile Developer
 
 #### Technical Skills: Project Management, Leadership, Kotlin, Java, SQL, Flutter, Html, Css
 
